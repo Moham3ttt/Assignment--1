@@ -38,6 +38,5 @@ public class SimpleBankingSystemBasic {
 
         } while (choice != 4);
 
-        input.close();
     }
 }
